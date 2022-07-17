@@ -31,6 +31,7 @@ const Home = () => {
       <Card />
       <Card />
       <Card />
+      <Card/>
     </Container>
   );
 };
