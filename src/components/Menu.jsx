@@ -81,7 +81,7 @@ font-weight: 500;
 color: #aaaaaa;
 margin-bottom: 20px;
 `;
-const Menu = () => {
+const Menu = ({ darkMode, setDarkMode }) => {
   return (
     <Container>
     <Wrapper>
