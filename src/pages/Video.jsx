@@ -142,7 +142,7 @@ const Video = () => {
           <ChannelInfo>
             <Image src="https://yt3.ggpht.com/yti/APfAmoE-Q0ZLJ4vk3vqmV4Kwp0sbrjxLyB8Q4ZgNsiRH=s88-c-k-c0x00ffffff-no-rj-mo" />
             <ChannelDetail>
-              <ChannelName>Universal Dev</ChannelName>
+              <ChannelName>unishare</ChannelName>
               <ChannelCounter>200K subscribers</ChannelCounter>
               <Description>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.

@@ -66,7 +66,7 @@ const Card = ({ type }) => {
           />
           <Texts>
             <Title>Test Video</Title>
-            <ChannelName>Universal Dev</ChannelName>
+            <ChannelName>Unishare</ChannelName>
             <Info>660,908 views • 1 day ago</Info>
           </Texts>
         </Details>

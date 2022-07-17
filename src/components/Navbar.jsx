@@ -5,7 +5,7 @@ import SearchOutlinedIcon from "@mui/icons-material/SearchOutlined";
 import { Link } from "react-router-dom";
 
 const Container = styled.div`
-  position: sticky;
+  position:sticky;
   top: 0;
   background-color: ${({ theme }) => theme.bgLighter};
   height: 56px;
