@@ -57,17 +57,17 @@ const Card = ({ type }) => {
       <Container type={type}>
         <Image
           type={type}
-          src="https://cdn.pixabay.com/photo/2016/11/23/14/45/coding-1853305__340.jpg"
+          src="https://wallpaperaccess.com/full/3909258.jpg"
         />
         <Details type={type}>
           <ChannelImage
             type={type}
-            src="https://cdn2.photostockeditor.com/t/0601/person-person-holding-white-rose-flower-flower-image.jpg"
+            src="https://wallpaperaccess.com/full/3909258.jpg"
           />
           <Texts>
             <Title>Test Video</Title>
             <ChannelName>Unishare</ChannelName>
-            <Info>660,908 views • 1 day ago</Info>
+            <Info>444444 views • 1 day ago</Info>
           </Texts>
         </Details>
       </Container>

@@ -112,19 +112,19 @@ const Video = () => {
           <iframe
             width="100%"
             height="720"
-            src="https://www.youtube.com/embed/k3Vfj-e1Ma4"
+            src="https:/www.youtube.com/embed/1L6oncFUu10"
             title="YouTube video player"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
           ></iframe>
         </VideoWrapper>
-        <Title>Test Video</Title>
+        <Title>Unishare</Title>
         <Details>
-          <Info>7,948,154 views • Jun 22, 2022</Info>
+          <Info>1M views • Nov, 2022</Info>
           <Buttons>
             <Button>
-              <ThumbUpOutlinedIcon /> 123
+              <ThumbUpOutlinedIcon /> 1111
             </Button>
             <Button>
               <ThumbDownOffAltOutlinedIcon /> Dislike
@@ -140,15 +140,12 @@ const Video = () => {
         <Hr />
         <Channel>
           <ChannelInfo>
-            <Image src="https://yt3.ggpht.com/yti/APfAmoE-Q0ZLJ4vk3vqmV4Kwp0sbrjxLyB8Q4ZgNsiRH=s88-c-k-c0x00ffffff-no-rj-mo" />
+            <Image src="https://wallpaperaccess.com/full/3909258.jpg" />
             <ChannelDetail>
               <ChannelName>unishare</ChannelName>
-              <ChannelCounter>200K subscribers</ChannelCounter>
+              <ChannelCounter>500K subscribers</ChannelCounter>
               <Description>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Doloribus laborum delectus unde quaerat dolore culpa sit aliquam
-                at. Vitae facere ipsum totam ratione exercitationem. Suscipit
-                animi accusantium dolores ipsam ut.
+               Frontend Application
               </Description>
             </ChannelDetail>
           </ChannelInfo>

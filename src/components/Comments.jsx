@@ -30,12 +30,9 @@ const Comments = () => {
   return (
     <Container>
       <NewComment>
-        <Avatar src="https://flyclipart.com/thumb2/react-logo-import-io-221727.png" />
+        <Avatar src="https://avatars.githubusercontent.com/u/58090261?v=4" />
         <Input placeholder="Add a comment..." />
       </NewComment>
-      <Comment/>
-      <Comment/>
-      <Comment/>
       <Comment/>
       <Comment/>
       <Comment/>
