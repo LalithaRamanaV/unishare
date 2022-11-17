@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/video/test"
+  to = "https:/www.youtube.com/embed/1L6oncFUu10"
+  status = 200
+  force = true

@@ -110,8 +110,8 @@ const Video = () => {
       <Content>
         <VideoWrapper>
           <iframe
-            width="100%"
-            height="720"
+            width="900px"
+            height="700px"
             src="https:/www.youtube.com/embed/1L6oncFUu10"
             title="YouTube video player"
             frameborder="0"
